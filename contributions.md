@@ -3,6 +3,8 @@
 
 - java-sparkpost →  Fix Log4j critical vulnerability - migrate log4j framework to lo4j2 - [link](https://github.com/SparkPost/java-sparkpost/issues/103) (not merged yet)
 
+- BlueObelisk/euclid → Fix one or more JavaDoc warnings - [link](https://github.com/BlueObelisk/euclid/issues/17)
+
 ## 2020
 
 - feeder →  Dockerized feeder application - [link](https://github.com/dreikanter/feeder/issues/250)
