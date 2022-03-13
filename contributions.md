@@ -1,7 +1,11 @@
+## 2022
+- takeout CLI tool →  Update stopDockerService CLI method to work on Linux and Windows - [link](https://github.com/tighten/takeout/issues/112)
+  - spun up the tool and tested the changes in different types of Linux and Windows VMs
+
 ## 2021
 - django-simple-banking-api →  Automized starting, stopping and testing of dockerized banking system service - [link](https://github.com/Keda87/django-simple-banking-api/issues/3)
 
-- java-sparkpost →  Fix Log4j critical vulnerability - migrate log4j framework to lo4j2 - [link](https://github.com/SparkPost/java-sparkpost/issues/103) (not merged yet)
+- java-sparkpost →  Fix Log4j critical vulnerability - migrate log4j framework to lo4j2 - [link](https://github.com/SparkPost/java-sparkpost/issues/103)
 
 - BlueObelisk/euclid → Fix one or more JavaDoc warnings - [link](https://github.com/BlueObelisk/euclid/issues/17)
 
