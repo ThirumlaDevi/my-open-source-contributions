@@ -1,3 +1,8 @@
+## 2023
+- OCM (Red hat openshift cluster management) cli tool
+  - Fix printing of duplicate machine pool information - [link](https://github.com/openshift-online/ocm-cli/pull/555)
+  - Added failure tests for list machine pools command and fix dependency issues in tests - [link](https://github.com/openshift-online/ocm-cli/pull/557) 
+ 
 ## 2022
 - takeout CLI tool →  Update stopDockerService CLI method to work on Linux and Windows - [link](https://github.com/tighten/takeout/issues/112)
   - spun up the tool and tested the changes in different types of Linux and Windows VMs
